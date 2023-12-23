@@ -3,4 +3,5 @@
 ## Sumário
 
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/bind-call-apply/index.js">1. Alterando escopo do this dentro de uma função utilizando os métodos: bind, aplly e call</a> <br />
-<a href="https://github.com/ruanvsrateira/livro-js/blob/main/variable-types/index.js">2. Tipos de Variáveis - Boolean, Number, Bigint, String, Symbol, Undefined, Null, Object, Function </a>
+<a href="https://github.com/ruanvsrateira/livro-js/blob/main/variable-types/index.js">2. Tipos de Variáveis - Boolean, Number, Bigint, String, Symbol, Undefined, Null, Object, Function </a> <br />
+<a href="https://github.com/ruanvsrateira/livro-js/blob/main/scopes/index.js">3. Escopos - Bloco - Função - Constantes </a> <br />
