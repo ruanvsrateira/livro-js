@@ -7,3 +7,4 @@
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/scopes/index.js">3. Escopos - Bloco - Função - Constantes </a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/function-types/index.js">4. Tipos de funções - IIFE (Immediately Invoked Function) - Arrow Function - Normal Function </a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/loops/index.js">5. Laços de repetição: For - For in - For of - While - Do while - Map - ForEach </a> <br />
+<a href="https://github.com/ruanvsrateira/livro-js/blob/main/array-methods/index.js">6. Array Methods: sort() reverse() splice() </a> <br />
