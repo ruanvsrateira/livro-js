@@ -10,3 +10,4 @@
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/array-methods/index.js">6. Array Methods: sort() reverse() splice() </a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/structure-map-set-and-json/">7. Structures: Map, Set and JSON </a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/template-string/index.js">8. Template String </a> <br />
+<a href="https://github.com/ruanvsrateira/livro-js/blob/main/destructuring-assignment-and-spread-operator/index.js">9. Destructuring Assignment e Spread Operator</a> <br />
