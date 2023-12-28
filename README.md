@@ -14,3 +14,4 @@
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/optional-chaining-default-argument-and-rest-parameters/index.js">10. Optional Chaining, Default Argument e Rest Parameter</a> <br /><a href="https://github.com/ruanvsrateira/livro-js/blob/main/node-version-structure/index.js">11. Node Version Structure</a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/n-and-nvm/index.js">12. N e NVM(Node Version Manager)</a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/use-strict/index.js">13. Use Strict</a> <br />
+<a href="https://github.com/ruanvsrateira/livro-js/blob/main/use-strict/index.js">14. Packages Managers: NPM(Node Package Manager) e YARN</a> <br />
