@@ -17,3 +17,4 @@
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/npm-npx-yarn/index.js">14. Packages Managers: NPM(Node Package Manager) e YARN</a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/node-terminal/index.js">15. Console do NodeJS (REPL)</a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/environment-variables/index.js">16. Environment Variables</a> <br />
+<a href="https://github.com/ruanvsrateira/livro-js/blob/main/promises-async-await/index.js">17. Promises - Async e Await</a> <br />
