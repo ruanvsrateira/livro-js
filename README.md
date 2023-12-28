@@ -11,4 +11,4 @@
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/structure-map-set-and-json/">7. Structures: Map, Set and JSON </a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/template-string/index.js">8. Template String </a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/destructuring-assignment-and-spread-operator/index.js">9. Destructuring Assignment e Spread Operator</a> <br />
-<a href="https://github.com/ruanvsrateira/livro-js/blob/main/optional-chaining-default-argument-and-rest-parameters/index.js">10. Optional Chaining, Default Argument e Rest Parameter</a> <br />
+<a href="https://github.com/ruanvsrateira/livro-js/blob/main/optional-chaining-default-argument-and-rest-parameters/index.js">10. Optional Chaining, Default Argument e Rest Parameter</a> <br /><a href="https://github.com/ruanvsrateira/livro-js/blob/main/node-version-structure/index.js">11. Node Version Structure</a> <br />
