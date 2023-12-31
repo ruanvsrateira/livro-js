@@ -18,3 +18,4 @@
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/node-terminal/index.js">15. Console do NodeJS (REPL)</a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/environment-variables/index.js">16. Environment Variables</a> <br />
 <a href="https://github.com/ruanvsrateira/livro-js/blob/main/promises-async-await/index.js">17. Promises - Async e Await</a> <br />
+<a href="https://github.com/ruanvsrateira/livro-js/blob/main/process-nexttick/index.js">18. Entendendo o process.nextTick()</a> <br />
